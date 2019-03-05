@@ -1,4 +1,4 @@
-package com.example.myfitnessapp.com.example.myfitnessapp.main
+package com.example.myfitnessapp.main
 
 import android.app.Application
 import com.example.myfitnessapp.models.FitnessModel

@@ -10,7 +10,7 @@ import android.view.ViewGroup
 import kotlinx.android.synthetic.main.activity_fitness_class_list.*
 import kotlinx.android.synthetic.main.activity_myfitnessapp_card.view.*
 import com.example.myfitnessapp.R
-import com.example.myfitnessapp.com.example.myfitnessapp.main.MainApp
+import com.example.myfitnessapp.main.MainApp
 import com.example.myfitnessapp.models.FitnessModel
 
 
