@@ -2,5 +2,5 @@
     <string name="app_name">MyFitnessApp</string>
     <string name="button_addFitnessClass">Add Fitness Class</string>
     <string name="hint_classTitle">Fitness Class Name</string>
-    <string name="hint_fitnessclassDescription">Description </string>
+    <string name="hint_fitnessclassDescription">Description</string>
 </resources>
